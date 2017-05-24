@@ -1,24 +1,35 @@
 /*margins*/
 body{
-	margin-left: 10%;
-	margin-right: 10%;
+	margin-left: 15%;
+	margin-right: 15%;
+	font-family: bell mt, univers, helvetica nueue;
+	padding-bottom: 10%;
 }
 .header{
-	margin-top: 5%;
+	margin-top: 2%;
 	margin-left: auto;
 	margin-right: auto;
 	align-content: center;
 }
-
 #mfu{
-	margin-left: 50%;
+	margin-left: 45%;
 	width: 10%
 }
 .container{
 	display: block;
-	margin-top: 5%;
+	margin-top: 2%;
 	
 }
 .photo{
 	width:100%;
+}
+.information{
+	margin-top: 10%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: justify;
+	width: 50%;
+}
+a{
+	color: inherit;
 }
